@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Namaste
-=======
-Vanakkam
->>>>>>> change-greeting
